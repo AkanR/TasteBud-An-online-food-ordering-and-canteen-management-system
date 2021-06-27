@@ -1,0 +1,311 @@
+checkout
+/* product page CSS */
+.btncol{
+    background-color:#5eb3a7;
+    color: black;
+}
+
+.prodimg{
+    width: 230px;
+    height: 170px;
+}
+.prodbox{
+     box-sizing:border-box;
+    border-color: grey;
+    border-style: double;
+    color: black;
+    font-weight: 500;
+    border-width: 3px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text{
+    font-family:'lob';
+    font-size: 20px;
+    color: black;
+}
+
+/* page check out */
+
+.check{
+     font-family:'odibe';
+    font-size: 70px;
+    color: black;
+}
+.check_out{
+     font-family:'odibe';
+    font-size: 80px;
+    color: black;
+}
+.text2{
+  font-family:'ubuntu';
+    font-size: 40px;
+    color: black;  
+}
+.razorpay-payment-button{
+    font-family:'lob';
+    background-color: #700202;
+    color:white;
+    font-size: 20px;
+    padding:10px 20px 10px 20px;   
+}
+
+/* page thank you page */
+.thod{
+    font-family:'ubuntu';
+    font-size: 20px;
+    color: black;
+}
+
+/* media queries for checkout and cart page */
+@media only screen and (min-width: 320px){
+  .prodimg{
+    display: none;
+    width: 100px;
+    height: 50px;
+}
+.check_out{
+     font-family:'odibe';
+    font-size: 35px;
+    color: black;
+}
+.check{
+     font-family:'odibe';
+    font-size: 35px;
+    color: black;
+}
+.text2{
+  font-family:'ubuntu';
+    font-size: 30px;
+    color: black;  
+}
+.prodbox{
+    border-color: grey;
+    color: black;
+    font-weight: 200;
+    border-width: 0.5px;
+    margin-bottom: 10px;
+}
+.text{
+    font-family:'cairo';
+    font-size: 20px;
+    color: black;
+}
+.text1{
+    font-family:'ubuntu';
+    font-size: 25px;
+    color: black;
+}
+}
+@media only screen and (min-width: 380px){
+    
+ .prodimg{
+  display: none;
+  width: 100px;
+  height: 50px;
+}
+.check_out{
+     font-family:'odibe';
+    font-size: 35px;
+    color: black;
+}
+.check{
+     font-family:'odibe';
+    font-size: 35px;
+    color: black;
+}
+.prodbox{
+    border-color: grey;
+    box-sizing: content-box;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: 200;
+    border-width: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text{
+    font-family:'cairo';
+    font-size: 20px;
+    color: black;
+}
+.text1{
+    font-family:'ubuntu';
+    font-size: 25px;
+    color: black;
+} 
+.text2{
+  font-family:'ubuntu';
+    font-size: 30px;
+    color: black;  
+}
+}
+@media only screen and (min-width: 425px){
+    .prodimg{
+    width: 100px;
+    height: 150px;
+}
+.check_out{
+     font-family:'odibe';
+    font-size: 35px;
+    color: black;
+}
+.check{
+     font-family:'odibe';
+    font-size: 35px;
+    color: black;
+}
+.prodbox{
+     box-sizing:border-box;
+    border-color: grey;
+    color: black;
+    font-weight: 300;
+    border-width: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text{
+    font-family:'cairo';
+    font-size: 20px;
+    color: black;
+}
+.text1{
+    font-family:'ubuntu';
+    font-size: 25px;
+    color: black;
+}
+ .text2{
+  font-family:'ubuntu';
+    font-size: 30px;
+    color: black;  
+}   
+}
+@media only screen and (min-width: 725px){
+    
+        .prodimg{
+      display:block;
+    width: 175px;
+    height: 150px;
+}
+.prodbox{
+     box-sizing:border-box;
+    border-color: grey;
+    color: black;
+    font-weight: 300;
+    border-width: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text{
+    font-family:'cairo';
+    font-size: 20px;
+    color: black;
+}
+.text1{
+    font-family:'ubuntu';
+    font-size: 25px;
+    color: black;
+}
+ .check_out{
+     font-family:'odibe';
+    font-size: 55px;
+    color: black;
+}   
+.check{
+     font-family:'odibe';
+    font-size: 70px;
+    color: black;
+}
+}
+@media only screen and (min-width: 1024px){
+    .prodimg{
+        display:block;
+    width: 150px;
+    height: 150px;
+}
+.check_out{
+     font-family:'odibe';
+    font-size: 70px;
+    color: black;
+}
+.check{
+     font-family:'odibe';
+    font-size: 70px;
+    color: black;
+}
+.prodbox{
+     box-sizing:border-box;
+    border-color: grey;
+    border-style: double;
+    color: black;
+    font-weight: 200;
+    border-width: 3px;
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text{
+    font-family:'cairo';
+    font-size: 20px;
+    color: black;
+}
+.text1{
+    font-family:'ubuntu';
+    font-size: 25px;
+    color: black;
+}
+.room{
+    font-family:'ubuntu';
+    width: 200px;
+    height: 30px;
+    color: black;
+}
+}
+@media only screen and (min-width: 1440px){
+    
+    .prodimg{
+        display: block;
+    width: 230px;
+    height: 170px;
+}
+.prodbox{
+     box-sizing:border-box;
+    border-color: grey;
+    border-style: double;
+    color: black;
+    font-weight: 500;
+    border-width: 3px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    
+}
+.text{
+    font-family:'cairo';
+    font-size: 20px;
+    color: black;
+}
+.text1{
+    font-family:'ubuntu';
+    font-size: 25px;
+    color: black;
+}
+.room{
+    font-family:'ubuntu';
+    width: 200px;
+    height: 30px;
+    color: black;
+}
+.check_out{
+     font-family:'odibe';
+    font-size: 70px;
+    color: black;
+}
+.check{
+     font-family:'odibe';
+    font-size: 70px;
+    color: black;
+}
+}
+
+ 

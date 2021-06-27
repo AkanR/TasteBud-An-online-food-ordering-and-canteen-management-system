@@ -1,0 +1,27 @@
+/* 
+    Document   : font
+    Created on : Mar 21, 2020, 3:42:22 AM
+    Author     : Akansha Rai
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+@font-face {
+font-family: lob;
+src: url("font/Lobster-Regular.ttf");
+}
+
+@font-face {
+font-family: ubuntu;
+src: url("font/Ubuntu-Bold.ttf");
+}
+
+@font-face {
+font-family: cairo;
+src: url("font/Cairo-Regular.ttf");
+}
+@font-face {
+font-family: odibe;
+src: url("font/Odibee.ttf");
+}

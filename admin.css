@@ -1,0 +1,101 @@
+.adminlogin{
+    font-family:'lob'; 
+    color:black;
+    font-size: 40px;
+}
+.bgadmin{
+            background-image: url("images/loginbg.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+}
+#phead{
+    background-color:#5eb3a7; 
+}
+#bgbg
+{
+ background-image:  url("images/loginbg.jpg");  
+}
+
+#bttn {
+  background-color:#3d928a ;
+  color: white;
+}
+#btn-info{
+    background-color: #5eb3a7;
+    color:black;
+    padding: 3px 28px 3px 28px ;
+}
+#vieworder{
+    background-color: #37b620;
+}
+#vieworder1{
+    background-color: lightskyblue;
+}
+#vieworder2{
+    background-color: lightsalmon;
+}
+#vieworder3{
+    background-color: lightpink;
+}
+
+.flexbg1
+{
+  width: 210px;
+  margin: 20px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flexbg2
+{
+  width: 210px;
+  margin: 20px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flexbg3
+{
+ width: 210px;
+ margin: 20px;
+ text-align: center;
+ line-height: 75px;
+ font-size: 25px;   
+}
+.liveorder{
+    font-family:'lob'; 
+    color:black;
+    font-size: 30px;
+    
+}
+.liveorder1{
+    font-family:'lob'; 
+    color:black;
+    font-size: 25px;
+    
+}
+.countorder{
+    font-family:'lob'; 
+    color:black;
+    font-size: 50px;
+
+}
+#viewproducts{
+    background-color: #20aeb6;
+}
+
+.orderadmin{
+    padding: 10px 10px 10px 10px;
+    border-color: grey;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    font-family:sans-serif;
+    font-size: 15px;
+    
+}
+
+.adminalign{
+    text-align: left;
+}
